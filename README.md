@@ -12,7 +12,7 @@
 </p>
 
 
-[szrosebot](https://github.com/szsupunma/sz-rosebot) is the most featured group management bot ever made with advance Anti module !
+[szrosebot](https://github.com/Pulsar8806/Security) is the most featured group management bot ever made with advance Anti module !
 
 ## 🚀Getting started
 Complete Documentation For Rose Bot..
